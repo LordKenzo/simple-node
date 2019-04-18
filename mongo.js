@@ -8,7 +8,7 @@ const dbName = 'meetupsDB';
 
 function connect() {
   mongoose.set('debug', true);
-  return mongoose.connect(`mongoUri/${dbName}`, {
+  return mongoose.connect(`${mongoUri}/${dbName}`, {
     useCreateIndex: true,
     useNewUrlParser: true,
   });
