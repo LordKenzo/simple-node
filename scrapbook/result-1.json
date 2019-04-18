@@ -1,0 +1,41 @@
+{
+  "result": {
+    "ok": 1,
+    "n": 3
+  },
+  "ops": [
+    {
+      "id": 1,
+      "name": "Angular Roma",
+      "description": "Meetup della community Angular a Roma",
+      "website": "http://",
+      "imageURL": "",
+      "countVote": 0,
+      "_id": "5cb88c6c7d9b790df7cc87f5"
+    },
+    {
+      "id": 2,
+      "name": "Rust Roma",
+      "description": "Meetup della community Rust a Roma",
+      "website": "http://",
+      "imageURL": "",
+      "countVote": 0,
+      "_id": "5cb88c6c7d9b790df7cc87f6"
+    },
+    {
+      "id": 3,
+      "name": "DotNET Roma",
+      "description": "Meetup della community DotNET a Roma",
+      "website": "http://",
+      "imageURL": "",
+      "countVote": 0,
+      "_id": "5cb88c6c7d9b790df7cc87f7"
+    }
+  ],
+  "insertedCount": 3,
+  "insertedIds": [
+    "5cb88c6c7d9b790df7cc87f5",
+    "5cb88c6c7d9b790df7cc87f6",
+    "5cb88c6c7d9b790df7cc87f7"
+  ]
+}

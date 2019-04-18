@@ -1,0 +1,26 @@
+db.meetups.insertMany([
+  {
+    id: 1,
+    name: 'Angular Roma',
+    description: 'Meetup della community Angular a Roma',
+    website: 'http://',
+    imageURL: '',
+    countVote: 0
+  },
+  {
+    id: 2,
+    name: 'Rust Roma',
+    description: 'Meetup della community Rust a Roma',
+    website: 'http://',
+    imageURL: '',
+    countVote: 0
+  },
+  {
+    id: 3,
+    name: 'DotNET Roma',
+    description: 'Meetup della community DotNET a Roma',
+    website: 'http://',
+    imageURL: '',
+    countVote: 0
+  }
+])
